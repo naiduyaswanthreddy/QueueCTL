@@ -611,18 +611,5 @@ queuectl info <job-id>
 - Check for stale database locks
 - Restart workers if needed
 
-## 📝 License
 
-MIT License - See LICENSE file for details
 
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions or issues, please open an issue on GitHub.
-
----
-
-**Built with ❤️ for the Flam Backend Developer Internship Assignment**
