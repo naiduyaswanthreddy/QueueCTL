@@ -568,21 +568,6 @@ The system handles various error scenarios:
 - **Memory Usage**: ~10-20MB base + ~5MB per worker
 - **Startup Time**: < 1 second
 
-## 🚀 Future Enhancements
-
-Potential features for future versions:
-
-- [ ] Job priority queues
-- [ ] Scheduled/delayed jobs (`run_at` timestamp)
-- [ ] Job dependencies and workflows
-- [ ] Job output logging and storage
-- [ ] Web dashboard for monitoring
-- [ ] Metrics and statistics export
-- [ ] Job timeout configuration per job
-- [ ] Distributed worker support
-- [ ] Job cancellation
-- [ ] Webhook notifications
-
 ## 🐛 Troubleshooting
 
 ### Workers Not Processing Jobs
