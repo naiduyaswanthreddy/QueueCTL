@@ -1,9 +1,6 @@
 # QueueCTL - Background Job Queue System
 
-A production-grade CLI-based background job queue system with automatic retry, exponential backoff, and Dead Letter Queue (DLQ) support.
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+A CLI-based background job queue system with automatic retry, exponential backoff, and Dead Letter Queue (DLQ) support.
 
 ## 🎯 Features
 
